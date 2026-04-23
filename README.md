@@ -1,109 +1,89 @@
 <!--## Hi there 👋-->
 # 👋 Hi, I'm Saurabh Sapkal
 
-🚀 Software Engineer | AI/ML Enthusiast | Quant-Focused Developer
+💻 Software Engineer | 🤖 AI/ML Enthusiast | 📊 Quant-Focused Developer | 🚀 Continuous Learner
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 B.E. Computer Science (2024)
-* 💻 Strong in **Python, Java, SQL, JavaScript**
-* 🤖 Passionate about **AI/ML, Quant Finance, and Scalable Systems**
-* 📊 Interested in **trading systems, risk modeling, and data-driven decision making**
-* ⚡ Building projects that combine **engineering + analytics + real-world impact**
+I'm a passionate developer focused on building **data-driven and scalable systems** across AI/ML, finance, and web technologies.
+
+I enjoy combining **machine learning, quantitative analysis, and backend engineering** to solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-**Languages**
-`Python` `Java` `JavaScript` `SQL`
+### 🖥️ Backend
 
-**AI/ML**
-`Scikit-learn` `PyTorch` `Pandas` `NumPy` `Time Series Forecasting` `NLP`
+Python | Java | Spring Boot | REST APIs
 
-**Web & Backend**
-`React` `Angular` `Spring Boot` `REST APIs`
+### 🎨 Frontend
 
-**Cloud & DevOps**
-`AWS` `Docker` `Kubernetes` `CI/CD`
+JavaScript (ES6+) | ReactJS | Angular | HTML5 | CSS3
 
-**Databases**
-`MySQL` `MongoDB`
+### 🧩 Databases & Tools
+
+MySQL | MongoDB | Git | Postman
+
+### 🤖 AI & Data
+
+Scikit-learn | PyTorch | Pandas | NumPy | NLP | Time Series
+
+### ☁️ Cloud & DevOps
+
+AWS | Docker | Kubernetes | CI/CD
 
 ---
 
-## 🚀 Featured Projects
+## 🌱 Currently Learning
+
+* Advanced Machine Learning & MLOps
+* System Design (Scalable Systems)
+* Quantitative Finance (Options, Risk, Portfolio Theory)
+* Data Structures & Algorithms
+
+---
+
+## 🚀 Projects
 
 ### 📊 Stock Forecasting & Portfolio Optimization
 
-* Built **time-series forecasting models** using Prophet
-* Implemented **Markowitz Portfolio Optimization**
-* Simulated **risk-return trade-offs for investment strategies**
-* End-to-end pipeline: data → prediction → optimization → dashboard
-
----
+Time-series forecasting with portfolio optimization and risk analysis
 
 ### 📈 Options Volatility Trading Tool
 
-* Developed **options pricing system using Black-Scholes**
-* Computed **Greeks (Delta, Gamma, Vega)** for risk analysis
-* Built **volatility-based trading strategies (straddles/strangles)**
-* Applied ML concepts for **volatility prediction (experimental)**
+Options pricing, Greeks, and volatility-based trading strategies
+
+### 📰 AI News Aggregator
+
+Content ingestion, ranking, and personalization using NLP
+
+### 🎥 Multimodal LLMOps System
+
+Video → insights pipeline using LLMs and RAG architecture
 
 ---
 
-### 📰 AI News Aggregator & Personalization Engine
+## 🎯 Career Goals
 
-* Built NLP pipeline for **content ingestion, filtering, and ranking**
-* Implemented **personalized recommendation system**
-* Designed **search and indexing mechanisms**
-
----
-
-### 🎥 Multimodal LLMOps Video Compliance System
-
-* Built **RAG-based pipeline** using LLMs for compliance analysis
-* Processed **video → transcript → structured insights**
-* Integrated **observability + monitoring for ML workflows**
+🚀 Become a high-impact Software/AI Engineer
+📊 Build quantitative trading & analytics systems
+🤖 Develop AI-powered real-world applications
+💬 Contribute to impactful open-source projects
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-**Data Science Intern – Unique System Skills**
-
-* Built **Sales Insights dashboards**
-* Developed **Sentiment Analysis model (NLP)**
-* Implemented **Recommendation System**
-* Automated data preprocessing pipelines
-
-**Web Development Intern – Pro Azure Software Solutions**
-
-* Developed **Angular-based web modules with REST APIs**
-* Improved performance via **lazy loading & optimization**
-* Increased test coverage and fixed production issues
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
 
 ---
 
-## 📚 Certifications
-
-* Microsoft Azure Fundamentals
-* Oracle Cloud Infrastructure – Generative AI Professional
-
----
-
-## 📈 Current Focus
-
-* 🔥 Data Structures & Algorithms (FAANG prep)
-* 🤖 Advanced Machine Learning & MLOps
-* 📊 Quantitative Finance (Options, Risk, Portfolio Theory)
-* ⚙️ System Design Fundamentals
-
----
-
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 * 💼 LinkedIn: [Add Link]
 * 💻 GitHub: [Add Link]
@@ -111,9 +91,8 @@
 
 ---
 
-## ⚡ Fun Fact
+⭐ *"Keep building, keep learning, and let your work speak."*
 
-I enjoy combining **finance + AI + engineering** to build real-world systems 🚀
 
 ---
 
