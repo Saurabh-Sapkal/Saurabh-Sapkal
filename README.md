@@ -84,9 +84,9 @@ Video → insights pipeline using LLMs and RAG architecture
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79ff97&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Sapkal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79ff97&text_color=c9d1d9" />
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css,jupyter%20notebook" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Sapkal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css,jupyter%20notebook" />
 </p>
 
 ## 🌐 Connect With Me
