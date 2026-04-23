@@ -76,16 +76,12 @@ Video → insights pipeline using LLMs and RAG architecture
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-Sapkal&show_icons=true&theme=default" />
-</p>
 ## 📈 Most Used Languages  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Sapkal&layout=compact&theme=tokyonight" />
 </p>
----
+
 
 ## 🌐 Connect With Me
 
