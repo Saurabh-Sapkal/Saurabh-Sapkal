@@ -25,7 +25,7 @@ JavaScript (ES6+) | ReactJS | Angular | HTML5 | CSS3
 
 ### 🧩 Databases & Tools
 
-MySQL | MongoDB | Git | Postman
+MySQL | MongoDB | Git 
 
 ### 🤖 AI & Data
 
@@ -91,9 +91,9 @@ Video → insights pipeline using LLMs and RAG architecture
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [Add Link]
-* 💻 GitHub: [Add Link]
-* 📧 Email: [Add Email]
+* 💼 LinkedIn: [www.linkedin.com/in/saurabh-sapkal]
+* 💻 GitHub: [(https://github.com/Saurabh-Sapkal)]
+* 📧 Email: [saurabhsapkal3909@gmail.com]
 
 ---
 
