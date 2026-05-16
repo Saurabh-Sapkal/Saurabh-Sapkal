@@ -74,7 +74,7 @@ Video → insights pipeline using LLMs and RAG architecture
 💬 Contribute to impactful open-source projects
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 ## 📈 Most Used Languages  
 
@@ -88,7 +88,7 @@ Video → insights pipeline using LLMs and RAG architecture
   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Sapkal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css,jupyter%20notebook" />
 </p>
-
+-->
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: [www.linkedin.com/in/saurabh-sapkal]
