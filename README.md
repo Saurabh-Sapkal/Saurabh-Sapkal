@@ -27,9 +27,9 @@ JavaScript (ES6+) | ReactJS | Angular | HTML5 | CSS3
 
 MySQL | MongoDB | Git 
 
-### 🤖 AI & Data
+### 🤖 AI & ML
 
-Scikit-learn | PyTorch | Pandas | NumPy | NLP | Time Series
+NLP | Deep learning | Gen AI | Agentic AI |
 
 ### ☁️ Cloud & DevOps
 
@@ -41,7 +41,7 @@ AWS | Docker | Kubernetes | CI/CD
 
 * Advanced Machine Learning & MLOps
 * System Design (Scalable Systems)
-* Quantitative Finance (Options, Risk, Portfolio Theory)
+<!--* Quantitative Finance (Options, Risk, Portfolio Theory)-->
 * Data Structures & Algorithms
 
 ---
@@ -97,10 +97,6 @@ Video → insights pipeline using LLMs and RAG architecture
 
 ---
 
-⭐ *"Keep building, keep learning, and let your work speak."*
-
-
----
 
 
 <!--
