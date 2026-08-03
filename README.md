@@ -1,7 +1,7 @@
 <!--## Hi there 👋-->
 # 👋 Hi, I'm Saurabh Sapkal
 
-💻 Software Engineer | 🤖 AI/ML Enthusiast | 📊 Quant-Focused Developer | 🚀 Continuous Learner
+💻 Software Engineer | 🤖 AI/ML Enthusiast | 🚀 Continuous Learner
 
 ---
 
