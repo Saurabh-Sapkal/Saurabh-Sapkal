@@ -92,7 +92,7 @@ Video → insights pipeline using LLMs and RAG architecture
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: [www.linkedin.com/in/saurabh-sapkal]
-* 💻 GitHub: [(https://github.com/Saurabh-Sapkal)]
+* 💻 GitHub: [(https://github.com/Saurabh-S01)]
 * 📧 Email: [saurabhsapkal3909@gmail.com]
 
 ---
